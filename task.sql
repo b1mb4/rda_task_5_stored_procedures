@@ -9,7 +9,7 @@ CREATE TABLE Countries (
 
 CREATE TABLE Products (
     ID INT AUTO_INCREMENT PRIMARY KEY,
-    ProductName VARCHAR(255) NOT NULL
+    Name VARCHAR(255) NOT NULL
 );
 
 CREATE TABLE Warehouses (
